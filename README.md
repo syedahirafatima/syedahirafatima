@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currenbtly working on my ai app<br>i'm looking to colleborate on ai opportunoities<br>i am curerntly learning machine learning<br>
+I'm currently working on my AI app < br> I'm looking to collaborate on AI opportunities < br> Feel free to reach out!
 
 
 # 💻 Tech Stack:
